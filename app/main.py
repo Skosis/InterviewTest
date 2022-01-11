@@ -8,7 +8,7 @@ from pydantic import BaseModel
 # Simple application that recieves POST and GET requests
 #   Implmented as a FastAPI application
 # 
-# Author: Skosis
+# Author: Jacob Nardone
 # Version: 1.0
 # Date: 1/10/2022
 
